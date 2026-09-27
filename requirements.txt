@@ -1,0 +1,5 @@
+pytest>=8.0
+pytest-playwright>=0.5
+pytest-html>=4.1
+deepeval>=3.0
+python-dotenv>=1.0

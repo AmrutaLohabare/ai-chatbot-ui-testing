@@ -1,0 +1,15 @@
+.env
+auth/*.json
+# generated reports: ignore everything except the submission evidence
+reports/*
+!reports/RunResults.mp4
+!reports/test_report.html
+!reports/deepeval_result.png
+!reports/deepeval_chat_ui.png
+!reports/flakiness_report.md
+test-results/
+__pycache__/
+.pytest_cache/
+.deepeval/
+venv/
+.venv/
